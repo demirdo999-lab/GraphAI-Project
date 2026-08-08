@@ -1,3 +1,28 @@
+# Smart Graph AI Lab
+
+An interactive graph theory and machine learning application built with Python, NetworkX and scikit-learn.
+
+Developed as part of **MATh.en.JEANS**, the project allows users to draw graphs, analyze their mathematical properties, train a Decision Tree classifier and observe how the model classifies new graph structures.
+
+## Screenshots
+<img width="2556" height="1345" alt="image" src="https://github.com/user-attachments/assets/142a9e2f-66c9-4a5e-81cb-ec61cc3d96c9" />
+<img width="1650" height="1027" alt="image" src="https://github.com/user-attachments/assets/8b545497-7b33-49cd-a9ca-e4fa843f6c53" />
+<img width="1222" height="982" alt="image" src="https://github.com/user-attachments/assets/bb543f26-cf55-4e62-89cc-78e66b141199" />
+<img width="1838" height="1083" alt="image" src="https://github.com/user-attachments/assets/5f19e663-e893-47b2-a226-0960bd59aa18" />
+
+## Key Features
+
+- Interactive graph creation
+- Mathematical graph analysis
+- Rule-based graph classification
+- Machine learning classification
+- Automatic synthetic dataset generation
+- Decision Tree training and evaluation
+- Model confidence scores
+- Interpretable learned decision rules
+- English and French interface
+
+
 ## How It Works
 
 Smart Graph AI Lab is an interactive graph-theory application that combines **mathematical graph analysis** with **supervised machine learning**.
@@ -408,14 +433,6 @@ Student project developed for MATh.en.JEANS.
 This project is intended for educational and portfolio purposes.
 
 See the LICENSE file for additional information.
-
-## Screenshots
-<img width="2556" height="1345" alt="image" src="https://github.com/user-attachments/assets/142a9e2f-66c9-4a5e-81cb-ec61cc3d96c9" />
-<img width="1650" height="1027" alt="image" src="https://github.com/user-attachments/assets/8b545497-7b33-49cd-a9ca-e4fa843f6c53" />
-<img width="1222" height="982" alt="image" src="https://github.com/user-attachments/assets/bb543f26-cf55-4e62-89cc-78e66b141199" />
-<img width="1838" height="1083" alt="image" src="https://github.com/user-attachments/assets/5f19e663-e893-47b2-a226-0960bd59aa18" />
-
-
 
 
 ## Run locally
