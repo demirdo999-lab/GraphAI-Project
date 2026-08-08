@@ -424,7 +424,7 @@ The objective of the project was to explore graph theory interactively and inves
 
 ## Author
 
-# Demir Dogan
+**Demir Dogan**
 
 Student project developed for MATh.en.JEANS.
 
